@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Daniele Signori</h1>
-<h3 align="center">A passionate learner from Bergamo</h3>
+<h1>Hi 👋, I'm Daniele Signori</h1>
+<h3>A passionate learner from Bergamo</h3>
 
 - 🌱 I’m currently learning **Cpp, Python, ROS2**
 
 - 📫 How to reach me **daniele.signori00@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
