@@ -2,6 +2,7 @@
 <h3>A passionate learner from Bergamo</h3>
 
 [![GitHub Starts](https://img.shields.io/github/stars/dsignori00?label=github&color=181717&logo=github&style=for-the-badge)](https://github.com/dsignori00)
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/daniele-signori/)
 
 I graduated in Engineering Physics and am currently pursuing a PhD in Systems and Control at the Politecnico di Milano.
 My research focuses on robotics, specifically on perception, Bayesian filtering, and state estimation.
